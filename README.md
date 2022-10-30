@@ -1,15 +1,14 @@
-![viper](https://imgur.com/JcyYzCI.png)
-
 About me
 ---
-### Hi i'm Viper aka Eidoron1. 
+### Hi i'm Subham
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=ff6347&title_color=ff0000&icon_color=ffb6c1&include_all_commits=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kcsuvham&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=ff6347&title_color=ff0000&icon_color=ffb6c1&include_all_commits=true) 
 
 My passions
 --- 
-* Anime
-* Manga
+* TKMOC
+* Movie
+* Else nothing
 
 <br />
 <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
